@@ -34,7 +34,6 @@ Tools used:
 ## Authors
 
 - [Twitter](https://www.github.com/MohammadDesk)
-- [Youtube](https://twitter.com/mohammaddesk/)
 
 
 ## License
