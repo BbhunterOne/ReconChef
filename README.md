@@ -26,7 +26,7 @@ Tools used:
 ## Easy to install 
 
 ```bash
-  git clone https://github.com/mohammaddesk/ReconChef
+  git clone https://github.com/mohammaddesk/ReconChef.git
   chmod +x install.sh
   chmod +x recon.sh
 ```
