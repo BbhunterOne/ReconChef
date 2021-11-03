@@ -28,7 +28,9 @@ Tools used:
 ```bash
   git clone https://github.com/mohammaddesk/ReconChef.git
   chmod +x install.sh
+  ./install.sh
   chmod +x recon.sh
+  ./recon.sh target.com
 ```
     
 ## Authors
