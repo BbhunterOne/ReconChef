@@ -29,7 +29,7 @@ Tools used:
 The Golang service must be available in your region.
 
 ```bash
-  git clone https://github.com/mohammaddesk/ReconChef.git
+  git clone https://github.com/BbhunterOne/ReconChef.git
   cd ReconChef
   chmod +x install.sh
   ./install.sh
@@ -39,7 +39,7 @@ The Golang service must be available in your region.
     
 ## Authors
 
-- [Twitter](https://twitter.com/mohammaddesk/)
+- [Twitter](https://twitter.com/BbhunterOne/)
 
 ## License
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)

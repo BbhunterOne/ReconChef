@@ -335,7 +335,7 @@ echo "   _   _   _   _   _     _   _   _   _  "
 echo "  / \ / \ / \ / \ / \   / \ / \ / \ / \ "
 echo " ( R | e | c | o | n ) ( c | h | e | f )"
 echo "  \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ "
-echo "     https://github.com/mohammaddesk "
+echo "     https://github.com/BbhunterOne "
 echo ""
 
 if [ -z $1 ]
