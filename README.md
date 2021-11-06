@@ -26,9 +26,11 @@ Tools used:
 - [My suggested ِDataCenter for buy cheapest vps](https://m.do.co/t/da9acff74676 )
 
 ## Easy to install 
+The Golang service must be available in your region.
 
 ```bash
   git clone https://github.com/mohammaddesk/ReconChef.git
+  cd ReconChef
   chmod +x install.sh
   ./install.sh
   chmod +x recon.sh
