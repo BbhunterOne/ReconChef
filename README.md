@@ -28,7 +28,7 @@ Tools used:
 ## Easy to install 
 
 ```bash
-  git clone https://github.com/mohammaddesk/ReconChef.git
+  git clone https://github.com/BbhunterOne/ReconChef.git
   chmod +x install.sh
   ./install.sh
   chmod +x recon.sh
@@ -37,7 +37,7 @@ Tools used:
     
 ## Authors
 
-- [Twitter](https://twitter.com/mohammaddesk/)
+- [Twitter](https://twitter.com/BbhunterOne/)
 
 ## License
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
